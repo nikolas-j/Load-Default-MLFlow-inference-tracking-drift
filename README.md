@@ -2,6 +2,8 @@
 
 Gradient Boosting Classifier to predict loan defaults. Tracks experiments with MLflow, registers production models, and serves predictions via FastAPI.
 
+Dataset used: Credit Risk Dataset: https://www.kaggle.com/datasets/laotse/credit-risk-dataset
+
 ## Components
 
 **MLflow Server**: Experiment tracking and model registry (SQLite backend, local artifacts)  
