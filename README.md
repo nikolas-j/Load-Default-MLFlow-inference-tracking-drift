@@ -1,4 +1,4 @@
-# MLFlow Experiment - Loan Default Prediction
+# MLFlow tracking and API inference service - Loan Default Prediction
 
 Gradient Boosting Classifier to predict loan defaults. Tracks experiments with MLflow, registers production models, and serves predictions via FastAPI.
 
